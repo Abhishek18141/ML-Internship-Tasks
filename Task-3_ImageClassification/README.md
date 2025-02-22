@@ -62,6 +62,6 @@ This project implements **Convolutional Neural Networks (CNNs)** to classify ima
 
 ---
 ### Author
-[Your Name]  
-Date: [Current Date]
+Abhishek Pandey 
+Date: 23-02-2025
 
