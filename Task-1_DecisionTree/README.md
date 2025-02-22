@@ -53,6 +53,6 @@ This project builds a **Decision Tree Classifier** using the **Iris dataset**. T
 
 ---
 ### Author
-[Your Name]  
-Date: [Current Date]
+Abhishek Pandey 
+Date: 23-02-2025
 
